@@ -15,7 +15,7 @@ public class SimpleElementFactory {
   }
 
   public static SimpleFile createFile(Project project, String text) {
-    String name = "dummy.simple";
+    String name = "main.s";
     return (SimpleFile) PsiFileFactory.getInstance(project).createFileFromText(name, SimpleFileType.INSTANCE, text);
   }
 

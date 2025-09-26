@@ -8,15 +8,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf ideFingerprint="1uegk4x06lgru" SIDE_TABS_SIZE_LIMIT_KEY="-1">
-      <file current-in-tab="true">
+      <file>
         <entry file="file://$PROJECT_DIR$/test.simple">
           <provider editor-type-id="text-editor" selected="true">
             <state relative-caret-position="176">
-              <caret line="8" column="35" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
             </state>
           </provider>
         </entry>
-        <tab><![CDATA[{"tabTitle":"test.simple","foregroundColor":-2104859,"textAttributes":{"name":"a"},"icon":[10,45,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,85,114,108,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,-53,1,10,-56,1,106,97,114,58,102,105,108,101,58,47,85,115,101,114,115,47,109,105,99,104,97,101,108,114,117,100,111,108,102,47,68,111,119,110,108,111,97,100,115,47,83,77,73,83,67,97,115,109,95,115,117,112,112,111,114,116,47,115,109,105,115,99,97,115,109,95,108,97,110,103,117,97,103,101,95,112,108,117,103,105,110,47,98,117,105,108,100,47,105,100,101,97,45,115,97,110,100,98,111,120,47,73,67,45,50,48,50,52,46,51,46,54,47,112,108,117,103,105,110,115,47,115,105,109,112,108,101,95,108,97,110,103,117,97,103,101,95,112,108,117,103,105,110,47,108,105,98,47,115,105,109,112,108,101,95,108,97,110,103,117,97,103,101,95,112,108,117,103,105,110,45,50,46,48,46,48,46,106,97,114,33,47,105,99,111,110,115,47,106,97,114,45,103,114,97,121,46,112,110,103]}]]></tab>
+        <tab><![CDATA[{"tabTitle":"test.simple","foregroundColor":-2104859,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,73,10,18,102,105,108,101,84,121,112,101,115,47,116,101,120,116,46,115,118,103,18,24,101,120,112,117,105,47,102,105,108,101,84,121,112,101,115,47,116,101,120,116,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-122,-48,-19,-85,-2,-1,-1,-1,-1,1,48,0]}]]></tab>
+      </file>
+      <file current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/main.s">
+          <provider editor-type-id="text-editor" selected="true" />
+        </entry>
+        <tab><![CDATA[{"tabTitle":"main.s","foregroundColor":-2104859,"textAttributes":{"name":"a"},"icon":[10,45,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,85,114,108,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,-53,1,10,-56,1,106,97,114,58,102,105,108,101,58,47,85,115,101,114,115,47,109,105,99,104,97,101,108,114,117,100,111,108,102,47,68,111,119,110,108,111,97,100,115,47,83,77,73,83,67,97,115,109,95,115,117,112,112,111,114,116,47,115,109,105,115,99,97,115,109,95,108,97,110,103,117,97,103,101,95,112,108,117,103,105,110,47,98,117,105,108,100,47,105,100,101,97,45,115,97,110,100,98,111,120,47,73,67,45,50,48,50,52,46,51,46,54,47,112,108,117,103,105,110,115,47,115,105,109,112,108,101,95,108,97,110,103,117,97,103,101,95,112,108,117,103,105,110,47,108,105,98,47,115,105,109,112,108,101,95,108,97,110,103,117,97,103,101,95,112,108,117,103,105,110,45,50,46,48,46,48,46,106,97,114,33,47,105,99,111,110,115,47,106,97,114,45,103,114,97,121,46,112,110,103]}]]></tab>
       </file>
     </leaf>
   </component>
@@ -31,12 +37,12 @@
       "lastUsed": 1758901165033
     },
     "PLAIN_TEXT": {
-      "usageCount": 1,
-      "lastUsed": 1758901448984
+      "usageCount": 2,
+      "lastUsed": 1758904527346
     },
     "Simple File": {
-      "usageCount": 3,
-      "lastUsed": 1758902140033
+      "usageCount": 4,
+      "lastUsed": 1758904529922
     }
   }
 }]]></component>
@@ -54,10 +60,10 @@
   </component>
   <component name="LanguageUsageStatistics">
     <language id="Simple">
-      <summary usageCount="3" lastUsage="1758902140034" />
+      <summary usageCount="4" lastUsage="1758904529922" />
     </language>
     <language id="TEXT">
-      <summary usageCount="1" lastUsage="1758901448985" />
+      <summary usageCount="2" lastUsage="1758904527347" />
     </language>
   </component>
   <component name="ProjectView">
@@ -97,10 +103,19 @@
               <presentation>
                 <attributes>
                   <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/main.s" />
+                  </map>
+                </attributes>
+                <data isLeaf="true" text="main.s" />
+                <item name="main.s" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
                     <entry key="filePath" value="$PROJECT_DIR$/test.simple" />
                   </map>
                 </attributes>
-                <data isLeaf="true" text="test.simple" />
+                <data iconPath="expui/fileTypes/text.svg" iconPlugin="com.intellij" isLeaf="true" text="test.simple" />
                 <item name="test.simple" type="ab9368bb:PsiFileNode" />
               </presentation>
               <presentation>
@@ -160,9 +175,12 @@
     <entry file="file://$PROJECT_DIR$/test.simple">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="176">
-          <caret line="8" column="35" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.s">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
