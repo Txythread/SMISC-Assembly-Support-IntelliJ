@@ -1,0 +1,28 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="EditorBackSpace">
+      <i c="19" l="1758902152556" />
+    </e>
+    <e n="EditorCopy">
+      <i c="1" l="1758901221378" />
+    </e>
+    <e n="EditorEnter">
+      <i c="9" l="1758902144254" />
+    </e>
+    <e n="EditorUp">
+      <i c="1" l="1758901907512" />
+    </e>
+    <e n="NewFile">
+      <i c="1" l="1758901173496" />
+    </e>
+    <e n="SaveAll">
+      <i c="1" l="1758902157109" />
+    </e>
+    <e n="WelcomeScreen.CreateNewProject">
+      <i c="1" l="1758901158559" />
+    </e>
+    <e n="com.intellij.notification.NotificationAction$Simple">
+      <i c="2" l="1758901515284" />
+    </e>
+  </component>
+</application>
